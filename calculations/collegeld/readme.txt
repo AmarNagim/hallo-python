@@ -1,0 +1,1 @@
+collegegeld 2021-2022 voor mbo niveau 4 is 608 euro als je 18+ bent. Vanuit gaande dat mijn hele klas 18+ is moeten we intotaal 14592 euro betalen aan collegegeld.
