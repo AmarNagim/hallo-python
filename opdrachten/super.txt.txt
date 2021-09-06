@@ -1,0 +1,1 @@
+Image recognition is voor mij erg interessant, omdat het idee dat ik een programma schrijf dat bepaalde delen van een foto kan detecteren en onderscheiden van de rest van de foto. Met die informatie kan het programma veel meer doen, zoals een bepaalde gemiddelde uitrekenen of ai learning.
